@@ -1,5 +1,5 @@
 ---
-title: R-bar Tutorial
+title: Introduction to Resampling in R by Danielle Quinn
 text: Using resampling algorithms in sensitivity analyses
 location: University Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/10
